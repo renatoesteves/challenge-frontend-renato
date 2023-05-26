@@ -29,7 +29,7 @@ The challenge is to implement an e-commerce for the sale of mugs and t-shirts th
 
 1. Clone this repo
 ```bash
-git clone https://github.com/Fernanda-Kipper/challenge-frontend-renato.git
+git clone https://github.com/renato-esteves/challenge-frontend-renato.git
 
 ```
 
